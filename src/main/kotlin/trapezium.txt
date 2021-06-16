@@ -1,0 +1,21 @@
+Hi!
+This is Rachron app learning phase.
+You will be learning some cool stuff in this.
+fields involved are: firebase, hosting, rest_apis.
+now your task is to capture following items and map them to respective variables.
+...
+ - greet: Welcome to Racheron.
+ - kick_out: Go to hell.
+ - colors: { color1: yellow, color2: green, color3: blue }
+ - genders: male, female, none.
+ - nouns: cat, dog, umbrella, keyboard, mouse, computer.
+ - programming languages: c, c++, ruby, python, java, kotlin
+ - more-complex_stuff:
+	# You need to add this to an a list line by line now till ---
+	- bus
+	- truck, abc
+	- boomerang, pubg, clash_of_clans
+	- pegion
+	- cat
+	- mouse, blue, black, dark
+---
